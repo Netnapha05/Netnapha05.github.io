@@ -25,4 +25,4 @@ System.out.print('Hello world');
 console.log("Hello world");
 ```
 
-[google](www.google.co.th)
+[google](www.google.com)
