@@ -1,9 +1,28 @@
-# Hello World !
+# header 1
 
-## Header 1
+this is my github page
 
-this is my page
+## Header 2
 
-- click here !()
+this is my first page
 
-### Header 2
+### Header 3
+
+- html lab 1
+- html lab 2
+
+```html
+<html>
+  <body></body>
+</html>
+```
+
+```java
+System.out.print('Hello world');
+```
+
+```javascript
+console.log("Hello world");
+```
+
+[google](www.google.co.th)
