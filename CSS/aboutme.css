@@ -2,6 +2,10 @@ body {
   background-color: #f9f9fa;
 }
 
+img {
+  width: 150px;
+  height: 150;
+}
 .padding {
   padding: 3rem !important;
 }
