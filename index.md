@@ -18,7 +18,7 @@
   <div class="card-body">
     <h5 class="card-title">Todo application on JS with DOM</h5>
     <p class="card-text">Todo application on JS with DOM</p>
-    <a href="/todojs/index.html" class="btn btn-primary">Watch</a>
+    <a href="/index.html" class="btn btn-primary">Watch</a>
   </div>
 </div>
 </div>
