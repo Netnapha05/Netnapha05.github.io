@@ -5,9 +5,75 @@
 <div class="card" style="width: 18rem;">
   <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">about me page</h5>
+    <h5 class="card-title">About Me Page</h5>
     <p class="card-text">Profile ของนักศึกษา</p>
     <a href="/aboutme.html" class="btn btn-primary">Watch</a>
   </div>
 </div>
 </div>
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Todo application on JS with DOM</h5>
+    <p class="card-text">Todo application on JS with DOM</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">React Shopping Cart</h5>
+    <p class="card-text">React Shopping Cart</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">React Shopping Cart</h5>
+    <p class="card-text">React Shopping Cart</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">3D Training</h5>
+    <p class="card-text">3D Training</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div>
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Node JS API</h5>
+    <p class="card-text">Node JS API</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div
+
+<div class="col">
+<div class="card" style="width: 18rem;">
+  <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Laravel web application</h5>
+    <p class="card-text">Laravel web application</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
+  </div>
+</div>
+</div
