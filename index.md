@@ -5,9 +5,9 @@
 <div class="card" style="width: 18rem;">
   <img src="/img/DSC_4882.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Laravel web application</h5>
-    <p class="card-text">พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
-    <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">Go</a>
+    <h5 class="card-title">about me page</h5>
+    <p class="card-text">Profile ของนักศึกษา</p>
+    <a href="/aboutme.html" class="btn btn-primary">Watch</a>
   </div>
 </div>
 </div>
