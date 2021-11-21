@@ -4,7 +4,7 @@ body {
 
 img {
   width: 150px;
-  height: 150;
+  height: 150px;
 }
 .padding {
   padding: 3rem !important;
@@ -16,22 +16,22 @@ img {
 
 .card {
   border-radius: 5px;
-  -webkit-box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
-  box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+  -webkit-box-shadow: 100px 100px 0 rgba(69, 90, 100, 0.08);
+  box-shadow: 100px 100px 0 rgba(69, 90, 100, 0.08);
   border: none;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
 }
 
 .m-r-0 {
-  margin-right: 0px;
+  margin-right: 100px;
 }
 
 .m-l-0 {
-  margin-left: 0px;
+  margin-left: 100px;
 }
 
 .user-card-full .user-profile {
-  border-radius: 5px 0 0 5px;
+  border-radius: 50px 50px;
 }
 
 .bg-c-lite-green {
@@ -46,7 +46,7 @@ img {
 }
 
 .user-profile {
-  padding: 20px 0;
+  padding: 100px 0;
 }
 
 .card-block {
@@ -58,11 +58,11 @@ img {
 }
 
 .img-radius {
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 h6 {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .card .card-block p {
@@ -71,7 +71,7 @@ h6 {
 
 @media only screen and (min-width: 1400px) {
   p {
-    font-size: 14px;
+    font-size: 20px;
   }
 }
 
